@@ -49,9 +49,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 - cMard
 
-## Contact Information
-
-If you have any questions or need assistance with the Clock app, please contact [your email address].
 
 ---
 
